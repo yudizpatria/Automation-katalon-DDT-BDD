@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User should login succesfully with a vallid account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27c36f14-ea88-438a-8bae-ca1510cc9373</testCaseGuid>
+</TestCaseEntity>
